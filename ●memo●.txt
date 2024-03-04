@@ -1,0 +1,17 @@
+
+// Dexie のインストール
+npm install dexie dexie-react-hooks
+
+// PWA 対応でインストール
+npm install next-pwa
+
+// Ant Design を使用するためにインストール
+npm install antd --save
+npm install @ant-design/nextjs-registry --save
+npm install @ant-design/icons --save
+
+// yupを使用してFormのバリデーションを行うためにインストール
+npm install react-hook-form
+npm install @hookform/resolvers
+npm install yup
+
